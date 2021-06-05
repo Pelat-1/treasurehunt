@@ -4,15 +4,16 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.pelat-1.game</groupId>
-	<artifactId>treasurehunt</artifactId>
+	<artifactId>treasurehunt-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Treasure Hunt</name>
-	<description>Treasure Hunt project</description>
+	<name>Treasure Hunt - BE</name>
+	<description>Treasure Hunt Backend module</description>
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>backend</module>
 <!--		TODO:-->
-<!--		<module>frontend</module>-->
+<!--		<module>code</module>-->
+<!--		TODO:-->
+<!--		<module>library</module>-->
 	</modules>
 </project>
