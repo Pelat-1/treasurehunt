@@ -11,8 +11,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-<!--		TODO:-->
-<!--		<module>code</module>-->
+		<module>code</module>
 <!--		TODO:-->
 <!--		<module>library</module>-->
 	</modules>
